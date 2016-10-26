@@ -1,14 +1,14 @@
 {
-  "name": "text-loader",
-  "version": "0.0.1",
-  "description": "Webpack loader to polyfill for Requires' text loader module",
+  "name": "raw-text-loader",
+  "version": "0.1.0",
+  "description": "Webpack loader to load RAW text",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dfenstermaker/text-loader.git"
+    "url": "https://github.com/kristianmandrup/raw-text-loader.git"
   },
   "keywords": [
     "webpack",
@@ -16,10 +16,10 @@
     "text",
     "loader"
   ],
-  "author": "Danny Fenstermaker",
-  "license": "ISC",
+  "author": "Kristian Mandrup",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dfenstermaker/text-loader/issues"
+    "url": "https://github.com/kristianmandrup/raw-text-loader/issues"
   },
-  "homepage": "https://github.com/dfenstermaker/text-loader"
+  "homepage": "https://github.com/kristianmandrup/raw-text-loader"
 }
