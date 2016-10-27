@@ -1,6 +1,6 @@
 {
   "name": "raw-text-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Webpack loader to load RAW text",
   "main": "index.js",
   "scripts": {
